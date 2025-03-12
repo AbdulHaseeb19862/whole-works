@@ -9,7 +9,7 @@ function Hero() {
         quae, nam sunt nesciunt repellat itaque soluta cum at voluptatibus
         libero. Suscipit vel eum tempore, eligendi rem eveniet illum iusto.
       </p>
-      <button className="bg-blue-700 hover:bg-blue-600 px-3 sm:px-4 py-1.5 sm:py-2 text-white rounded-md cursor-pointer text-base sm:text-lg">
+      <button className="bg-blue-700 border-none hover:bg-blue-600 px-3 sm:px-4 py-1.5 sm:py-2 text-white rounded-md cursor-pointer text-base sm:text-lg">
         Know More
       </button>
     </div>
