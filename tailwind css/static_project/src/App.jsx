@@ -1,10 +1,11 @@
 import "./App.css";
+import Header from "./components/Header";
 
 function App() {
   return (
-    <>
-      <h2 className="text-4xl bg-green-600">Welcome To Tailwind css project</h2>
-    </>
+    <div className="max-w-7xl mx-auto">
+      <Header></Header>
+    </div>
   );
 }
 
